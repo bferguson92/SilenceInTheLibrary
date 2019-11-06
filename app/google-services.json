@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493610204055",
+    "firebase_url": "https://silence-in-the-library.firebaseio.com",
+    "project_id": "silence-in-the-library",
+    "storage_bucket": "silence-in-the-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493610204055:android:6a2fafa143074e847862d2",
+        "android_client_info": {
+          "package_name": "com.example.silenceinthelibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493610204055-i56ig598iovbkpidcgvt3m27trg6iita.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.silenceinthelibrary",
+            "certificate_hash": "c863a78c8308100065fe7e8aeb443d9e834d1fff"
+          }
+        },
+        {
+          "client_id": "493610204055-o6nmh7mfrodv82us944cs1r8jsj9djgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33FYnOVwYig4M0nzagFmSye0TkwbJYBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493610204055-o6nmh7mfrodv82us944cs1r8jsj9djgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
